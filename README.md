@@ -8,13 +8,13 @@ Key things that i took care of in this project:
 
 ### Working of some Key Methods  
 1. Caesar-Cipher method (Main Method)  
-|- takes a  
-|  - string (String)  
-|  - shift factor (number)  
-|- returns the shifted string (String)  
+- takes a  
+  - string (String)  
+  - shift factor (number)  
+- returns the shifted string (String)  
 
 2. cipher_shift method (Sub Method)  
-|- takes a  
-|  - character (Char)  
-|- returns the shifted character (Char)  
+- takes a  
+  - character (Char)  
+- returns the shifted character (Char)  
 
