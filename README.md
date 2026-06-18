@@ -7,4 +7,11 @@ Key things that i took care of in this project:
 - Using the right shift
 
 ### Working of some Key Methods  
-1. 
+1. Caesar-Cipher method (Main Method)
+|- takes a string (String) and the shift factor (number)
+|- returns the shifted string (String)
+
+2. cipher_shift method (Sub Method)
+|- takes a character (Char)
+|- returns the shifted character (Char)
+
